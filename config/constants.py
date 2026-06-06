@@ -1,0 +1,3 @@
+# Constantes globales (estándar UPPER_SNAKE_CASE)
+IGV_PORCENTAJE = 0.18
+TIPOS_MOVIMIENTO = ("ENTRADA", "SALIDA")

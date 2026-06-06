@@ -1,0 +1,3 @@
+2026-06-06 06:27:02,881 - ERROR - prueba_logs - 55 - Error registrando producto ProductoConMovimientos: llave duplicada viola restricción de unicidad «productos_sku_key»
+DETAIL:  Ya existe la llave (sku)=(FK999).
+

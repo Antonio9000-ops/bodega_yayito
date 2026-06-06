@@ -1,0 +1,1 @@
+from services.inventario_service import BodegaController
